@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/%7Btarea3deploy%7D/static/css/main.115a81c8.chunk.css",
-    "main.js": "/%7Btarea3deploy%7D/static/js/main.805d22f6.chunk.js",
-    "main.js.map": "/%7Btarea3deploy%7D/static/js/main.805d22f6.chunk.js.map",
-    "runtime-main.js": "/%7Btarea3deploy%7D/static/js/runtime-main.a1dd56f3.js",
-    "runtime-main.js.map": "/%7Btarea3deploy%7D/static/js/runtime-main.a1dd56f3.js.map",
-    "static/css/2.c1e28d34.chunk.css": "/%7Btarea3deploy%7D/static/css/2.c1e28d34.chunk.css",
-    "static/js/2.e99658dd.chunk.js": "/%7Btarea3deploy%7D/static/js/2.e99658dd.chunk.js",
-    "static/js/2.e99658dd.chunk.js.map": "/%7Btarea3deploy%7D/static/js/2.e99658dd.chunk.js.map",
-    "static/js/3.691ff1e1.chunk.js": "/%7Btarea3deploy%7D/static/js/3.691ff1e1.chunk.js",
-    "static/js/3.691ff1e1.chunk.js.map": "/%7Btarea3deploy%7D/static/js/3.691ff1e1.chunk.js.map",
-    "index.html": "/%7Btarea3deploy%7D/index.html",
-    "static/css/2.c1e28d34.chunk.css.map": "/%7Btarea3deploy%7D/static/css/2.c1e28d34.chunk.css.map",
-    "static/css/main.115a81c8.chunk.css.map": "/%7Btarea3deploy%7D/static/css/main.115a81c8.chunk.css.map",
-    "static/js/2.e99658dd.chunk.js.LICENSE.txt": "/%7Btarea3deploy%7D/static/js/2.e99658dd.chunk.js.LICENSE.txt",
-    "static/media/avion.13af52c2.jpg": "/%7Btarea3deploy%7D/static/media/avion.13af52c2.jpg"
+    "main.css": "/tarea3deploy/static/css/main.115a81c8.chunk.css",
+    "main.js": "/tarea3deploy/static/js/main.805d22f6.chunk.js",
+    "main.js.map": "/tarea3deploy/static/js/main.805d22f6.chunk.js.map",
+    "runtime-main.js": "/tarea3deploy/static/js/runtime-main.ab88a47c.js",
+    "runtime-main.js.map": "/tarea3deploy/static/js/runtime-main.ab88a47c.js.map",
+    "static/css/2.c1e28d34.chunk.css": "/tarea3deploy/static/css/2.c1e28d34.chunk.css",
+    "static/js/2.8102ec02.chunk.js": "/tarea3deploy/static/js/2.8102ec02.chunk.js",
+    "static/js/2.8102ec02.chunk.js.map": "/tarea3deploy/static/js/2.8102ec02.chunk.js.map",
+    "static/js/3.691ff1e1.chunk.js": "/tarea3deploy/static/js/3.691ff1e1.chunk.js",
+    "static/js/3.691ff1e1.chunk.js.map": "/tarea3deploy/static/js/3.691ff1e1.chunk.js.map",
+    "index.html": "/tarea3deploy/index.html",
+    "static/css/2.c1e28d34.chunk.css.map": "/tarea3deploy/static/css/2.c1e28d34.chunk.css.map",
+    "static/css/main.115a81c8.chunk.css.map": "/tarea3deploy/static/css/main.115a81c8.chunk.css.map",
+    "static/js/2.8102ec02.chunk.js.LICENSE.txt": "/tarea3deploy/static/js/2.8102ec02.chunk.js.LICENSE.txt",
+    "static/media/avion.13af52c2.jpg": "/tarea3deploy/static/media/avion.13af52c2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1dd56f3.js",
+    "static/js/runtime-main.ab88a47c.js",
     "static/css/2.c1e28d34.chunk.css",
-    "static/js/2.e99658dd.chunk.js",
+    "static/js/2.8102ec02.chunk.js",
     "static/css/main.115a81c8.chunk.css",
     "static/js/main.805d22f6.chunk.js"
   ]
